@@ -1,0 +1,1 @@
+scCreateProblemLongDivision(irandom_range(20,112)+random(1), irandom_range(2,20)+random(1));

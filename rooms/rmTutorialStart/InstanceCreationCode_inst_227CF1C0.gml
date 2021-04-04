@@ -1,0 +1,1 @@
+oTutorial.proceedButton = id;

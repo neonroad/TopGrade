@@ -1,0 +1,1 @@
+oTutorial.operator = id;

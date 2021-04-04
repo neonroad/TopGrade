@@ -1,0 +1,1 @@
+oTutorialFraction.proceedButton = id;
